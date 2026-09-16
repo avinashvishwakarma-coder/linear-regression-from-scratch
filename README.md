@@ -61,7 +61,7 @@ The models are evaluated using the **R² (R-squared) score**.
 
 | Model | R² Score |
 |-------|----------|
-| Scikit-learn Linear Regression | 0.4872 |
+| Scikit-learn Linear Regression | 0.4399 |
 | Custom Linear Regression | 0.4399 |
 
 The project also compares the learned intercept and coefficients between the two implementations.
